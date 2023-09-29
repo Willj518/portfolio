@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://willj518.github.io/portfolio/",
+  "homepage": "./",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@emotion/react": "^11.10.5",
@@ -56,7 +56,7 @@
       "last 1 safari version"
     ]
   },
-  "repository": "https://github.com/Willj518/profile.git",
+  "repository": "https://github.com/Willj518/portfolio.git",
   "author": "William W. <69099196+Willj518@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {

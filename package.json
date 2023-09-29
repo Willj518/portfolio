@@ -1,18 +1,18 @@
 {
-  "name": "portfolio.williamjwhite.me",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://portfolio.williamjwhite.me",
+  "homepage": "<https://willj518.github.io/portfolio>",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.10.17",
-    "@mui/styles": "^5.10.16",
+    "@mui/styles": "^5.14.11",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
-    "gh-pages": "^6.0.0",
+    "jquery": "^3.7.1",
     "lottie-react": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -26,6 +26,7 @@
     "react-slick": "^0.29.0",
     "react-typed": "^1.2.0",
     "slick-carousel": "^1.8.1",
+    "typescript": "^5.2.2",
     "validator": "^13.7.0",
     "web-vitals": "^2.1.0"
   },
@@ -58,5 +59,10 @@
   "main": "index.js",
   "repository": "https://github.com/Willj518/portfolio.williamjwhite.me.git",
   "author": "William W. <69099196+Willj518@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.22.15",
+    "@babel/preset-react": "^7.22.15",
+    "gh-pages": "^6.0.0"
+  }
 }

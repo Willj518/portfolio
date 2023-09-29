@@ -1,0 +1,5 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "Results-driven and adaptable professional with a proven track record spanning over 15 years across diverse roles, including Customer Success, Technical Account Management, Project Management, Solutions Architecture, Digital Transformation Consultancy, Escalations Management, Training and Team Leadership.",
+    description2: "I'm an Enterprise Technical Success Manager, Digital Transformation SME, web designer and developer based in Seattle, Washington. I serve as a trusted technical advisor and implementation consultant for clients across various business verticals. I have over 10 years of experience in designing, implementing, and supporting enterprise software including banking and loan originatioin, electronic signatures (DocuSign, Adobe), digital mortgage and business solutions that enable digital business transformation and innovation.  I have a passion for problem-solving and enjoy learning about and experimenting with new technologies. Currently using and exploring: Node.js, React.js, Bootstrap, Material UI, MongoDB, Mysql, PostgreSQL, Nextjs, AI in business. ",
+    }

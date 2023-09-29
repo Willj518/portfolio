@@ -1,0 +1,51 @@
+@charset "UTF-8";
+:root {
+  /* --primaryFont: "Maven Pro", sans-serif; */
+  --primaryFont: "Inter", sans-serif;
+  /* --primaryFont: 'Montserrat', sans-serif; */
+  /* --primaryFont: 'Raleway', sans-serif; */
+}
+
+:root {
+  --portfolio-modal-background: #fff;
+  --portfolio-highlight-color: #087ea4;
+  --portfolio-primary-color: #0074a6;
+  --portfolio-container-background: rgba(52, 58, 70, 0.8);
+  --portfolio-modal-shadow: none;
+  --portfolio-searchbox-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+  --ifm-z-index-fixed: 1000;
+  --portfolio-hit-height: 48px;
+  --portfolio-searchbox-height: 72px;
+  --portfolio-footer-height: 108px;
+  --portfolio-icon-stroke-width: 1.4;
+  --hover-overlay: rgba(0, 0, 0, 0.05);
+  --fds-animation-fade-in: cubic-bezier(0, 0, 1, 1);
+  --fds-animation-fade-out: cubic-bezier(0, 0, 1, 1);
+}
+
+html.dark {
+  --portfolio-modal-background: #23272f;
+  --portfolio-hit-background: #23272f;
+  --portfolio-highlight-color: #149eca;
+}
+
+.Portfolio--active #__next {
+  filter: blur(0);
+}
+
+.Portfolio-SearchBar {
+  padding: 0.75rem 1.25rem;
+}
+
+/* @font-face {
+  font-family: Inter;
+  src:
+    url('..path/to/fonts/roboto_extremo.woff2')
+    format(‘woff2 supports variations’),
+    url('..path/to/fonts/roboto_extremo.woff2')
+    format('woff2-variations');
+  font-stretch: 25% 150%;
+  font-style: oblique 0deg 10deg;
+  font-weight: 100 900;
+  font-display: swap;
+} */

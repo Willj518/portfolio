@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "william-white-portfolio",
   "version": "0.1.0",
   "private": true,
   "homepage": "<https://willj518.github.io/portfolio>",
@@ -57,7 +57,7 @@
     ]
   },
   "main": "index.js",
-  "repository": "https://github.com/Willj518/portfolio.williamjwhite.me.git",
+  "repository": "https://github.com/Willj518/portfolio.git",
   "author": "William W. <69099196+Willj518@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
